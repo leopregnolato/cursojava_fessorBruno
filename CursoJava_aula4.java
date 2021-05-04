@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class CursoJava_aula4{
    public static void main(String[] args){
 

@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class CursoJava_aula5{
    public static void main(String[] args){
         /* O DO WHILE primeiro executa e depois testa a condição. Com esse código garantimos que o bloco de código seja executado ao menos uma vez */
