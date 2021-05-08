@@ -6,4 +6,4 @@ This repository is made to register the code produced through Teacher Bruno clas
 
 These classes are introductory on Java programming and are so clear to understand.
 
-The archives receive the class name and contain the code wirtten in all classes. Sometimes I put in comments some explanation about them.
+The archives receive the class name and contain the code written in all classes. Sometimes I put in comments some explanation about them.
