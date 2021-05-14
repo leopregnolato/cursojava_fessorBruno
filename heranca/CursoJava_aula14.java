@@ -10,6 +10,8 @@ public class CursoJava_aula14{
         c3.atirar();
         c3.atirar();
         c3.atirar();
+        c3.atirar();
+        c3.atirar();
 
         c4.sofrerDano(30);
         c1.sofrerDano(5);
